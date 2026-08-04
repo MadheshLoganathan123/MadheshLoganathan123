@@ -1,25 +1,43 @@
-<div align="center"> <!-- ===================== HEADER — TERMINAL / CODE STYLE ===================== --> <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=200&section=header&text=L%20MADHESH&fontSize=60&fontColor=ffffff&fontAlignY=45&animation=twinkling" width="100%"/> <table> <tr><td>
-yaml
-focus: [AI / ML, Generative AI, Web Development]
-status: "Building, learning, shipping 🚀"
-</td></tr> </table>
+<div align="center"> <!-- ===================== "EDITOR TITLE BAR" ===================== --> <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e1e&height=3&section=header" width="100%"/> <table width="100%"> <tr> <td align="left">🔴 🟡 🟢 &nbsp; <code>madhesh-profile — README.md</code></td> <td align="right"><code>UTF-8&nbsp; LF&nbsp; Markdown</code></td> </tr> </table> <!-- ===================== "OPEN TABS" ===================== --> <p align="left"> <img src="https://img.shields.io/badge/-●_about.md-1e1e1e?style=flat-square&labelColor=007ACC&color=1e1e1e"/> <img src="https://img.shields.io/badge/-skills.json-1e1e1e?style=flat-square&labelColor=2d2d2d&color=1e1e1e"/> <img src="https://img.shields.io/badge/-projects.js-1e1e1e?style=flat-square&labelColor=2d2d2d&color=1e1e1e"/> <img src="https://img.shields.io/badge/-contact.ts-1e1e1e?style=flat-square&labelColor=2d2d2d&color=1e1e1e"/> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e1e&height=2&section=header" width="100%"/> </div> <br> <!-- ===================== HEADER ===================== --> <div align="center">
 https://git.io/typing-svg
-<img src="https://img.shields.io/badge/-B.E.%20Computer%20Science%20Engineering-A855F7?style=flat-square&labelColor=1e1b2e" alt="degree badge"/> </div> <br> <!-- ===================== ABOUT ME ===================== -->
-✦ About Me
+</div> <br>
+📂 about.md
+python
+class Madhesh:
+    def __init__(self):
+        self.role         = "Computer Science Engineering Student"
+        self.location     = "India"
+        self.languages    = ["C", "C++", "Python", "JavaScript", "TypeScript"]
+        self.interests    = ["Software Engineering", "AI/ML", "Generative AI"]
+        self.currently    = "building full-stack apps & exploring GenAI"
 
-Hey, I'm Madhesh — a Computer Science Engineering student who likes turning half-formed ideas into working software. My interests sit mostly around AI/ML and generative AI, but I build the full application around the model too — UI, backend, and data pipeline included.
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something solid 🚀")
 
-const madhesh = {
-  branch: "Computer Science Engineering",
-  interests: ["AI/ML", "Generative AI", "Web Development"],
-  currentlyExploring: "probabilistic forecasting & GenAI-powered apps",
-  hobby: "hackathons & ML competitions",
-  motto: "Ship it, then make it smarter."
-};
-<br> <!-- ===================== CONNECT WITH ME ===================== -->
-✦ Connect With Me
-<p align="left"> <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-6C1CD1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b2e" alt="LinkedIn"/> </a> <a href="https://github.com/MadheshLoganathan123" target="_blank"> <img src="https://img.shields.io/badge/GitHub-6C1CD1?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b2e" alt="GitHub"/> </a> <a href="mailto:your.email@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-6C1CD1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b2e" alt="Email"/> </a> <a href="https://twitter.com/YOUR-TWITTER-ID" target="_blank"> <img src="https://img.shields.io/badge/Twitter-6C1CD1?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1e1b2e" alt="Twitter"/> </a> <a href="https://leetcode.com/YOUR-LEETCODE-ID" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-6C1CD1?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1b2e" alt="LeetCode"/> </a> <a href="https://YOUR-PORTFOLIO-URL.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-6C1CD1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b2e" alt="Portfolio"/> </a> </p> <br> <!-- ===================== TECH STACK (skillicons.dev style — different visual texture) ===================== -->
-✦ Tech Stack
+madhesh = Madhesh()
+madhesh.say_hi()
+
+>_ Output: Thanks for stopping by — let's build something solid 🚀
+
+<br>
+💻 terminal — connect
+bash
+madhesh@dev:~$ cat contact.txt
+<p align="left"> <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e1e" alt="LinkedIn"/> </a> <a href="https://github.com/MadheshLoganathan123" target="_blank"> <img src="https://img.shields.io/badge/GitHub-007ACC?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e1e" alt="GitHub"/> </a> <a href="mailto:your.email@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-007ACC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e1e" alt="Email"/> </a> <a href="https://twitter.com/YOUR-TWITTER-ID" target="_blank"> <img src="https://img.shields.io/badge/Twitter-007ACC?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1e1e1e" alt="Twitter"/> </a> <a href="https://leetcode.com/YOUR-LEETCODE-ID" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-007ACC?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1e1e" alt="LeetCode"/> </a> <a href="https://YOUR-PORTFOLIO-URL.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1e1e" alt="Portfolio"/> </a> </p>
+bash
+madhesh@dev:~$ █
+<br>
+📂 skills.json
+json
+{
+  "languages": ["C", "C++", "Python", "JavaScript", "TypeScript"],
+  "frontend": ["HTML", "CSS", "React", "Next.js", "Tailwind CSS"],
+  "backend": ["Node.js", "Express.js"],
+  "databases": ["MongoDB", "Firebase", "Supabase"],
+  "cloud_and_tools": ["Google Cloud", "Git", "GitHub"],
+  "ai_ml": ["Machine Learning", "Generative AI"]
+}
+<div align="center">
 
 Languages <br> <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=dark" />
 
@@ -29,56 +47,73 @@ Backend & Databases <br> <img src="https://skillicons.dev/icons?i=nodejs,express
 
 Cloud & Tools <br> <img src="https://skillicons.dev/icons?i=gcp,git,github&theme=dark" />
 
-AI / ML
+</div> <br>
+📂 projects.js
+javascript
+const featuredProjects = [
+  {
+    name: "WeatherIQ",
+    desc: "Dark glassmorphism Java Swing weather & wind information system — forecast, alerts, settings & airflow panels, zero external UI libs.",
+    stack: ["Java", "Swing", "Desktop UI"],
+    repo: "https://github.com/MadheshLoganathan123/YOUR-REPO-NAME"
+  },
+  {
+    name: "ForecastIQ AI",
+    desc: "Probabilistic revenue forecasting platform for e-commerce agencies — LightGBM Quantile + Monte Carlo + SHAP + Gemini insights.",
+    stack: ["Python", "LightGBM", "Generative AI", "SHAP"],
+    repo: "https://github.com/MadheshLoganathan123/YOUR-REPO-NAME"
+  },
+  {
+    name: "SupplyShield",
+    desc: "Hyper-local food security command dashboard for Chennai metro — real-time agent simulation, multilingual query console (EN/TA/HI/TE).",
+    stack: ["React", "Next.js", "Tailwind CSS"],
+    repo: "https://github.com/MadheshLoganathan123/YOUR-REPO-NAME"
+  },
+  {
+    name: "SkillMap",
+    desc: "Resume-to-job-description skill gap analyser using NLP + graph analysis to surface missing skills.",
+    stack: ["FastAPI", "spaCy", "NetworkX", "React"],
+    repo: "https://github.com/MadheshLoganathan123/YOUR-REPO-NAME"
+  }
+];
 
-<p align="left"> <img src="https://img.shields.io/badge/AI%2FML-6C1CD1?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1e1b2e"/> <img src="https://img.shields.io/badge/Generative_AI-6C1CD1?style=flat-square&logo=openai&logoColor=white&labelColor=1e1b2e"/> </p> <br> <!-- ===================== GITHUB STATS ===================== -->
-✦ GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MadheshLoganathan123&show_icons=true&theme=radical&hide_border=true&bg_color=1e1b2e&count_private=true&include_all_commits=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadheshLoganathan123&layout=compact&theme=radical&hide_border=true&bg_color=1e1b2e&langs_count=8"/> <br/> <img src="https://streak-stats.demolab.com?user=MadheshLoganathan123&theme=radical&hide_border=true&background=1e1b2e" alt="GitHub Streak"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadheshLoganathan123&theme=redical&bg_color=1e1b2e&hide_border=true" width="100%"/> </div> <br> <!-- ===================== GITHUB ACHIEVEMENTS ===================== -->
-✦ GitHub Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MadheshLoganathan123&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies"/> </div> <br> <!-- ===================== FEATURED PROJECTS ===================== -->
-✦ Featured Projects
+module.exports = featuredProjects;
 <table> <tr> <td width="50%" valign="top">
-🌦️ WeatherIQ
 
-Dark, glassmorphism-styled Java Swing weather & wind information system with forecast, alerts, settings, and airflow panels — built with no external UI libraries.
-
-Java Swing Desktop UI
-
-🔗 Repo
+🌦️ WeatherIQ <br>Java Swing Desktop UI <br>🔗 View Repo
 
 </td> <td width="50%" valign="top">
-📈 ForecastIQ AI (AIgnition 3.0)
 
-Probabilistic revenue forecasting platform for e-commerce marketing agencies — LightGBM Quantile regression, Monte Carlo simulation, SHAP explainability, and Gemini-powered insights.
-
-Python LightGBM Generative AI SHAP
-
-🔗 Repo
+📈 ForecastIQ AI <br>Python LightGBM GenAI <br>🔗 View Repo
 
 </td> </tr> <tr> <td width="50%" valign="top">
-🛡️ SupplyShield
 
-Hyper-local food security command dashboard for the Chennai metro area, with real-time agent simulation and a multilingual query console (English, Tamil, Hindi, Telugu).
-
-React Next.js Tailwind CSS Real-time Systems
-
-🔗 Repo
+🛡️ SupplyShield <br>React Next.js Tailwind <br>🔗 View Repo
 
 </td> <td width="50%" valign="top">
-🗺️ SkillMap
 
-Resume-to-job-description skill gap analyser that parses resumes and JDs to surface missing skills using NLP and graph analysis.
+🗺️ SkillMap <br>FastAPI spaCy NetworkX <br>🔗 View Repo
 
-FastAPI spaCy NetworkX React
+</td> </tr> </table> <br>
+💻 terminal — stats
+bash
+madhesh@dev:~$ ./run_stats.sh --user MadheshLoganathan123
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MadheshLoganathan123&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1e1e1e&count_private=true&include_all_commits=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadheshLoganathan123&layout=compact&theme=vue-dark&hide_border=true&bg_color=1e1e1e&langs_count=8"/> <br/> <img src="https://streak-stats.demolab.com?user=MadheshLoganathan123&theme=vue-dark&hide_border=true&background=1e1e1e" alt="GitHub Streak"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadheshLoganathan123&theme=react-dark&bg_color=1e1e1e&hide_border=true" width="100%"/> </div>
+bash
+madhesh@dev:~$ █
+<br>
+🏆 achievements.log
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MadheshLoganathan123&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/> </div> <br>
+📂 currently_learning.md
+yaml
+learning:
+  - Generative AI
+  - System Design
+  - Google Cloud Platform
+  - Advanced Algorithms & Data Structures
+<p align="left"> <img src="https://img.shields.io/badge/Generative_AI-1e1e1e?style=flat-square&logo=openai&logoColor=007ACC"/> <img src="https://img.shields.io/badge/System_Design-1e1e1e?style=flat-square&logo=serverless&logoColor=007ACC"/> <img src="https://img.shields.io/badge/Google_Cloud_Platform-1e1e1e?style=flat-square&logo=google-cloud&logoColor=007ACC"/> <img src="https://img.shields.io/badge/Advanced_Algorithms-1e1e1e?style=flat-square&logo=leetcode&logoColor=007ACC"/> </p> <br> <!-- ===================== "STATUS BAR" FOOTER ===================== --> <div align="center">
 
-🔗 Repo
+https://komarev.com/ghpvc/?username=MadheshLoganathan123&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS
 
-</td> </tr> </table> <p align="center"><i>📌 More on my <a href="https://github.com/MadheshLoganathan123?tab=repositories">repositories page</a></i></p> <br> <!-- ===================== CURRENTLY LEARNING ===================== -->
-✦ Currently Learning
-<p align="left"> <img src="https://img.shields.io/badge/Generative_AI-1e1b2e?style=flat-square&logo=openai&logoColor=A855F7"/> <img src="https://img.shields.io/badge/System_Design-1e1b2e?style=flat-square&logo=serverless&logoColor=A855F7"/> <img src="https://img.shields.io/badge/Google_Cloud_Platform-1e1b2e?style=flat-square&logo=google-cloud&logoColor=A855F7"/> <img src="https://img.shields.io/badge/Advanced_Algorithms-1e1b2e?style=flat-square&logo=leetcode&logoColor=A855F7"/> </p> <br> <!-- ===================== VISITOR COUNTER ===================== --> <div align="center">
-https://komarev.com/ghpvc/?username=MadheshLoganathan123&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS
-<br> <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e1e&height=2&section=header" width="100%"/> <table width="100%"> <tr> <td align="left">🟢 <code>main</code> &nbsp;|&nbsp; ✅ <code>0 problems</code></td> <td align="right"><code>Ln 1, Col 1</code> &nbsp; <code>Spaces: 2</code></td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e1e&height=3&section=footer" width="100%"/>
 
-✦ Thanks for stopping by — let's build something interesting.
-
-</div>
