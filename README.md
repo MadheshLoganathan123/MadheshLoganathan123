@@ -1,119 +1,326 @@
-<div align="center"> <!-- ===================== "EDITOR TITLE BAR" ===================== --> <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e1e&height=3&section=header" width="100%"/> <table width="100%"> <tr> <td align="left">🔴 🟡 🟢 &nbsp; <code>madhesh-profile — README.md</code></td> <td align="right"><code>UTF-8&nbsp; LF&nbsp; Markdown</code></td> </tr> </table> <!-- ===================== "OPEN TABS" ===================== --> <p align="left"> <img src="https://img.shields.io/badge/-●_about.md-1e1e1e?style=flat-square&labelColor=007ACC&color=1e1e1e"/> <img src="https://img.shields.io/badge/-skills.json-1e1e1e?style=flat-square&labelColor=2d2d2d&color=1e1e1e"/> <img src="https://img.shields.io/badge/-projects.js-1e1e1e?style=flat-square&labelColor=2d2d2d&color=1e1e1e"/> <img src="https://img.shields.io/badge/-contact.ts-1e1e1e?style=flat-square&labelColor=2d2d2d&color=1e1e1e"/> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e1e&height=2&section=header" width="100%"/> </div> <br> <!-- ===================== HEADER ===================== --> <div align="center">
-https://git.io/typing-svg
-</div> <br>
-📂 about.md
-python
-class Madhesh:
-    def __init__(self):
-        self.role         = "Computer Science Engineering Student"
-        self.location     = "India"
-        self.languages    = ["C", "C++", "Python", "JavaScript", "TypeScript"]
-        self.interests    = ["Software Engineering", "AI/ML", "Generative AI"]
-        self.currently    = "building full-stack apps & exploring GenAI"
+<!-- ======================= HEADER ======================= -->
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something solid 🚀")
-
-madhesh = Madhesh()
-madhesh.say_hi()
-
->_ Output: Thanks for stopping by — let's build something solid 🚀
-
-<br>
-💻 terminal — connect
-bash
-madhesh@dev:~$ cat contact.txt
-<p align="left"> <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e1e" alt="LinkedIn"/> </a> <a href="https://github.com/MadheshLoganathan123" target="_blank"> <img src="https://img.shields.io/badge/GitHub-007ACC?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e1e" alt="GitHub"/> </a> <a href="mailto:your.email@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-007ACC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e1e" alt="Email"/> </a> <a href="https://twitter.com/YOUR-TWITTER-ID" target="_blank"> <img src="https://img.shields.io/badge/Twitter-007ACC?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1e1e1e" alt="Twitter"/> </a> <a href="https://leetcode.com/YOUR-LEETCODE-ID" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-007ACC?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1e1e" alt="LeetCode"/> </a> <a href="https://YOUR-PORTFOLIO-URL.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1e1e" alt="Portfolio"/> </a> </p>
-bash
-madhesh@dev:~$ █
-<br>
-📂 skills.json
-json
-{
-  "languages": ["C", "C++", "Python", "JavaScript", "TypeScript"],
-  "frontend": ["HTML", "CSS", "React", "Next.js", "Tailwind CSS"],
-  "backend": ["Node.js", "Express.js"],
-  "databases": ["MongoDB", "Firebase", "Supabase"],
-  "cloud_and_tools": ["Google Cloud", "Git", "GitHub"],
-  "ai_ml": ["Machine Learning", "Generative AI"]
-}
 <div align="center">
 
-Languages <br> <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D9FF&height=220&section=header&text=MADHESH%20LOGANATHAN&fontSize=48&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=17" width="100%"/>
 
-Frontend <br> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Madhesh+%F0%9F%91%8B;Computer+Science+Engineering+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;AI+%26+Generative+AI+Enthusiast+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%A7%A0;Building+Ideas+Into+Real+World+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-Backend & Databases <br> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase&theme=dark" />
+<br/>
 
-Cloud & Tools <br> <img src="https://skillicons.dev/icons?i=gcp,git,github&theme=dark" />
+<img src="https://komarev.com/ghpvc/?username=MadheshLoganathan123&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 
-</div> <br>
-📂 projects.js
-javascript
-const featuredProjects = [
-  {
-    name: "WeatherIQ",
-    desc: "Dark glassmorphism Java Swing weather & wind information system — forecast, alerts, settings & airflow panels, zero external UI libs.",
-    stack: ["Java", "Swing", "Desktop UI"],
-    repo: "https://github.com/MadheshLoganathan123/YOUR-REPO-NAME"
-  },
-  {
-    name: "ForecastIQ AI",
-    desc: "Probabilistic revenue forecasting platform for e-commerce agencies — LightGBM Quantile + Monte Carlo + SHAP + Gemini insights.",
-    stack: ["Python", "LightGBM", "Generative AI", "SHAP"],
-    repo: "https://github.com/MadheshLoganathan123/YOUR-REPO-NAME"
-  },
-  {
-    name: "SupplyShield",
-    desc: "Hyper-local food security command dashboard for Chennai metro — real-time agent simulation, multilingual query console (EN/TA/HI/TE).",
-    stack: ["React", "Next.js", "Tailwind CSS"],
-    repo: "https://github.com/MadheshLoganathan123/YOUR-REPO-NAME"
-  },
-  {
-    name: "SkillMap",
-    desc: "Resume-to-job-description skill gap analyser using NLP + graph analysis to surface missing skills.",
-    stack: ["FastAPI", "spaCy", "NetworkX", "React"],
-    repo: "https://github.com/MadheshLoganathan123/YOUR-REPO-NAME"
-  }
-];
+</div>
 
-module.exports = featuredProjects;
-<table> <tr> <td width="50%" valign="top">
+🧑‍💻 About Me
 
-🌦️ WeatherIQ <br>Java Swing Desktop UI <br>🔗 View Repo
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  👋 Hi, I'm Madhesh                                          │
+│                                                              │
+│  🎓 Computer Science & Engineering Student                   │
+│  💻 Software Developer                                       │
+│  🤖 AI / ML & Generative AI Enthusiast                       │
+│  🧠 Problem Solver & Competitive Programmer                   │
+│  🚀 Hackathon Builder                                        │
+│  🌱 Always Learning & Building                               │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 
-</td> <td width="50%" valign="top">
+I'm a Computer Science Engineering student passionate about building intelligent, scalable, and impactful software solutions.
 
-📈 ForecastIQ AI <br>Python LightGBM GenAI <br>🔗 View Repo
+I enjoy solving complex problems, exploring emerging technologies, building AI-powered applications, and turning innovative ideas into real-world products.
 
-</td> </tr> <tr> <td width="50%" valign="top">
+🔭 Currently Exploring
 
-🛡️ SupplyShield <br>React Next.js Tailwind <br>🔗 View Repo
+🤖 Artificial Intelligence & Generative AI
 
-</td> <td width="50%" valign="top">
+🧠 Machine Learning
 
-🗺️ SkillMap <br>FastAPI spaCy NetworkX <br>🔗 View Repo
+🌐 Full Stack Development
 
-</td> </tr> </table> <br>
-💻 terminal — stats
-bash
-madhesh@dev:~$ ./run_stats.sh --user MadheshLoganathan123
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MadheshLoganathan123&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1e1e1e&count_private=true&include_all_commits=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadheshLoganathan123&layout=compact&theme=vue-dark&hide_border=true&bg_color=1e1e1e&langs_count=8"/> <br/> <img src="https://streak-stats.demolab.com?user=MadheshLoganathan123&theme=vue-dark&hide_border=true&background=1e1e1e" alt="GitHub Streak"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadheshLoganathan123&theme=react-dark&bg_color=1e1e1e&hide_border=true" width="100%"/> </div>
-bash
-madhesh@dev:~$ █
-<br>
-🏆 achievements.log
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MadheshLoganathan123&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/> </div> <br>
-📂 currently_learning.md
-yaml
-learning:
-  - Generative AI
-  - System Design
-  - Google Cloud Platform
-  - Advanced Algorithms & Data Structures
-<p align="left"> <img src="https://img.shields.io/badge/Generative_AI-1e1e1e?style=flat-square&logo=openai&logoColor=007ACC"/> <img src="https://img.shields.io/badge/System_Design-1e1e1e?style=flat-square&logo=serverless&logoColor=007ACC"/> <img src="https://img.shields.io/badge/Google_Cloud_Platform-1e1e1e?style=flat-square&logo=google-cloud&logoColor=007ACC"/> <img src="https://img.shields.io/badge/Advanced_Algorithms-1e1e1e?style=flat-square&logo=leetcode&logoColor=007ACC"/> </p> <br> <!-- ===================== "STATUS BAR" FOOTER ===================== --> <div align="center">
+☁️ Cloud Computing
 
-https://komarev.com/ghpvc/?username=MadheshLoganathan123&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS
+🔗 Blockchain & Web3
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e1e&height=2&section=header" width="100%"/> <table width="100%"> <tr> <td align="left">🟢 <code>main</code> &nbsp;|&nbsp; ✅ <code>0 problems</code></td> <td align="right"><code>Ln 1, Col 1</code> &nbsp; <code>Spaces: 2</code></td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e1e&height=3&section=footer" width="100%"/>
+📊 Data & Predictive Analytics
 
+🧩 System Design & Problem Solving
+
+🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/madhesh-loganathan-b2055b304">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:loganathanmadhesh@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MadheshLoganathan123">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+⚡ Tech Arsenal
+
+💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript" />
+</p>
+
+🌐 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+🗄️ Databases & Backend Services
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,postgres" />
+</p>
+
+☁️ Cloud & AI
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=googlecloud,tensorflow,pytorch" />
+</p>
+
+🛠️ Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+</p>
+
+🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+🤖 ForecastIQ AI
+
+AI-powered revenue forecasting and marketing intelligence platform.
+
+Features
+
+📈 Revenue Forecasting
+
+💰 ROAS Prediction
+
+📊 Marketing Intelligence
+
+🤖 AI Recommendations
+
+🔍 Data Quality Monitoring
+
+Stack
+
+React Python LightGBM SHAP Gemini
+
+</td>
+
+<td width="50%">
+
+🧠 RuralMind
+
+AI-powered teacher retention prediction platform for rural public schools.
+
+Features
+
+📊 Predictive Analytics
+
+🤖 Machine Learning
+
+👨‍🏫 Teacher Retention Prediction
+
+📈 Data Visualization
+
+Stack
+
+Python Scikit-learn Random Forest Logistic Regression
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+🌾 FarmGrow AI
+
+AI-powered agricultural assistant designed to help farmers.
+
+Features
+
+🌱 Plant Identification
+
+🦠 Disease Detection
+
+🤖 AI Assistant
+
+🌐 Multilingual Support
+
+Stack
+
+React AI/ML Python Computer Vision
+
+</td>
+
+<td width="50%">
+
+🛡️ SupplyShield
+
+Agentic AI platform for localized food supply disruption management.
+
+Features
+
+🚨 Disruption Detection
+
+🚚 Logistics Coordination
+
+🌾 Farmer Network
+
+🏪 Community Pantry Support
+
+Stack
+
+AI Agents Python React Node.js
+
+</td>
+
+</tr>
+</table>
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MadheshLoganathan123&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadheshLoganathan123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MadheshLoganathan123&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MadheshLoganathan123&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+🧠 My Coding Journey
+
+<div align="center">
+
+Platform
+
+Focus
+
+🟡 LeetCode
+
+Data Structures & Algorithms
+
+🟤 CodeChef
+
+Competitive Programming
+
+🟢 GitHub
+
+Open Source & Projects
+
+🔵 Hackathons
+
+Innovation & Product Building
+
+</div>
+
+🏆 Achievements & Highlights
+
+🏆 Hackathon Participant
+🚀 Multiple AI & Full Stack Projects
+💻 Competitive Programming
+🤖 AI / ML Projects
+☁️ Cloud & Generative AI Experience
+🌐 Full Stack Development
+📚 Continuous Learner
+
+📚 Currently Learning
+
+[██████████████████░░] 90%  Data Structures & Algorithms
+[███████████████░░░░░] 75%  Artificial Intelligence
+[██████████████░░░░░░] 70%  Machine Learning
+[████████████░░░░░░░░] 60%  System Design
+[███████████░░░░░░░░░] 55%  Cloud Architecture
+[████████░░░░░░░░░░░░] 45%  Blockchain & Web3
+
+💡 Developer Philosophy
+
+<div align="center">
+
+"First, solve the problem. Then, write the code."
+
+<br/>
+
+Build → Break → Learn → Improve → Repeat
+
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MadheshLoganathan123/MadheshLoganathan123/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+⚡ Fun Facts
+
+🧠 I enjoy solving algorithmic problems.
+
+🤖 I'm fascinated by AI and Generative AI.
+
+🚀 I love turning hackathon ideas into working products.
+
+💻 I believe consistent coding beats occasional motivation.
+
+🌱 Always learning something new.
+
+<div align="center">
+
+💻 Code. Build. Innovate. Repeat.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:161B22,100:0D1117&height=120&section=footer"/>
+
+</div>
+
+
+    
+
+ 
